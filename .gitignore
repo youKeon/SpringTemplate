@@ -40,3 +40,5 @@ out/
 !/logs/
 logs/
 
+
+src/main/resources/application-local.yml
