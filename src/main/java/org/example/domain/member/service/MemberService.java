@@ -33,7 +33,6 @@ public class MemberService {
         );
         System.out.println("==============팀에 속한 멤버 조회 쿼리 끝==============");
 
-
 //        System.out.println("==============멤버 전체 조회 쿼리==============");
 //        List<Member> all = memberRepository.findAll();
 //        System.out.println("==============멤버 전체 조회 쿼리 끝==============");
